@@ -11,35 +11,35 @@
 		},
 		{
 			"id": 2,
-			"avatar": "mocks/images/avatar.png",
+			"avatar": "https://raw.githubusercontent.com/kiki-do/authapi/4c2b43efc3dd298594c32a183456db73d485f59c/avatar.png",
 			"name": "Sergey",
 			"surname": "Petrov",
 			"hobby": "Chess"
 		},
 		{
 			"id": 3,
-			"avatar": "mocks/images/avatar.png",
+			"avatar": "https://raw.githubusercontent.com/kiki-do/authapi/4c2b43efc3dd298594c32a183456db73d485f59c/avatar.png",
 			"name": "Daniil",
 			"surname": "Antipov",
 			"hobby": "Football"
 		},
 		{
 			"id": 4,
-			"avatar": "mocks/images/avatar.png",
+			"avatar": "https://raw.githubusercontent.com/kiki-do/authapi/4c2b43efc3dd298594c32a183456db73d485f59c/avatar.png",
 			"name": "Alexandr",
 			"surname": "Kuleshov",
 			"hobby": "Gym"
 		},
 		{
 			"id": 5,
-			"avatar": "mocks/images/avatar.png",
+			"avatar": "https://raw.githubusercontent.com/kiki-do/authapi/4c2b43efc3dd298594c32a183456db73d485f59c/avatar.png",
 			"name": "Egor",
 			"surname": "Grigorenko",
 			"hobby": "Morning run"
 		},
 		{
 			"id": 6,
-			"avatar": "mocks/images/avatar.png",
+			"avatar": "https://raw.githubusercontent.com/kiki-do/authapi/4c2b43efc3dd298594c32a183456db73d485f59c/avatar.png",
 			"name": "Roman",
 			"surname": "Kushnarev",
 			"hobby": "Swimming"
