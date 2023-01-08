@@ -4,7 +4,7 @@
 	"contacts": [
 		{
 			"id": 1,
-			"avatar": "https://github.com/kiki-do/authapi/blob/4c2b43efc3dd298594c32a183456db73d485f59c/avatar.png",
+			"avatar": "https://raw.githubusercontent.com/kiki-do/authapi/4c2b43efc3dd298594c32a183456db73d485f59c/avatar.png",
 			"name": "Alexandr",
 			"surname": "Ivanov",
 			"hobby": "Play computer"
