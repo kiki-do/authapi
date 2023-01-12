@@ -1,7 +1,5 @@
 {
-	"auth": {
-		"auth": { "login": "daniil.com", "password": "123456" }
-	},
+	"auth": { "login": "daniil.com", "password": "123456" },
 	"contacts": [
 		{
 			"id": 1,
