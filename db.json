@@ -1,54 +1,51 @@
 {
-	"auth": { "login": "test@test.ru", "password": "123456" },
-
+	"auth": [
+		{
+			"auth": { "login": "daniil.com", "password": "123456" }
+		}
+	],
 	"contacts": [
 		{
 			"id": 1,
-			"avatar": "https://raw.githubusercontent.com/kiki-do/authapi/4c2b43efc3dd298594c32a183456db73d485f59c/avatar.png",
+			"avatar": "mocks/images/avatar.png",
 			"name": "Alexandr",
 			"surname": "Ivanov",
-			"hobby": "Play computer",
-			"fullname": "Alexandr Ivanov"
+			"hobby": "Play computer"
 		},
 		{
 			"id": 2,
-			"avatar": "https://raw.githubusercontent.com/kiki-do/authapi/4c2b43efc3dd298594c32a183456db73d485f59c/avatar.png",
+			"avatar": "mocks/images/avatar.png",
 			"name": "Sergey",
 			"surname": "Petrov",
-			"hobby": "Chess",
-			"fullname": "Sergey Petrov"
+			"hobby": "Chess"
 		},
 		{
 			"id": 3,
-			"avatar": "https://raw.githubusercontent.com/kiki-do/authapi/4c2b43efc3dd298594c32a183456db73d485f59c/avatar.png",
+			"avatar": "mocks/images/avatar.png",
 			"name": "Daniil",
 			"surname": "Antipov",
-			"hobby": "Football",
-			"fullname": "Daniil Antipov"
+			"hobby": "Football"
 		},
 		{
 			"id": 4,
-			"avatar": "https://raw.githubusercontent.com/kiki-do/authapi/4c2b43efc3dd298594c32a183456db73d485f59c/avatar.png",
+			"avatar": "mocks/images/avatar.png",
 			"name": "Alexandr",
 			"surname": "Kuleshov",
-			"hobby": "Gym",
-			"fullname": "Alexandr Kuleshov"
+			"hobby": "Gym"
 		},
 		{
 			"id": 5,
-			"avatar": "https://raw.githubusercontent.com/kiki-do/authapi/4c2b43efc3dd298594c32a183456db73d485f59c/avatar.png",
+			"avatar": "mocks/images/avatar.png",
 			"name": "Egor",
 			"surname": "Grigorenko",
-			"hobby": "Morning run",
-			"fullname": "Egor Grigorenko"
+			"hobby": "Morning run"
 		},
 		{
 			"id": 6,
-			"avatar": "https://raw.githubusercontent.com/kiki-do/authapi/4c2b43efc3dd298594c32a183456db73d485f59c/avatar.png",
+			"avatar": "mocks/images/avatar.png",
 			"name": "Roman",
 			"surname": "Kushnarev",
-			"hobby": "Swimming",
-			"fullname": "Roman Kushnarev"
+			"hobby": "Swimming"
 		}
 	]
 }
